@@ -1,0 +1,9 @@
+{
+    "s1": [
+        ["Introducción a la Física","FIS-100",3,"FIS"],
+        ["Introducción a la Ingeniería","IWG-101",2,"IDP"],
+        ["Química y Sociedad","QUI-010",3,"QUI"],
+        ["Educación Física I","DEW-100",1,"DEFI"],
+        ["Matemática I","MAT-011",5,"MAT"]
+    ]
+}
